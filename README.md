@@ -1,2 +1,3 @@
 # DS_Repo
-DS Repo
+**Een eerste start met GIT**
+
